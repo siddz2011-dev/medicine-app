@@ -18,10 +18,8 @@
 - HTML/CSS
 
 ## 🌍 Live Demo
-👉 Paste Your Railway Link Here
+👉 https://medicine-app-production-3d9e.up.railway.app/
 
-## 📸 Preview
-Add your project screenshot here
 
 ## ⚡ Run Locally
 
